@@ -38,7 +38,7 @@ I'm always open to discussing new projects, learning opportunities, or just chat
 
 | Platform | Link |
 | :--- | :--- |
-| **Email** | <a href="mailto:kingofosuhagan@gmail.com" target="_blank">✉️ your.kingofosuhagan@gmail.com</a> |
+| **Email** | <a href="mailto:kingofosuhagan@gmail.com" target="_blank">✉️ kingofosuhagan@gmail.com</a> |
 | **LinkedIn** | <a href="https://www.linkedin.com/in/king-ofosu-hagan-359462396" target="_blank">👔 LinkedIn</a> |
 
 | **GitHub** | <a href="https://github.com/hagan-del" target="_blank">🐙 GitHub</a> |
