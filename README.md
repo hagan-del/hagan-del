@@ -43,24 +43,3 @@ I'm always open to discussing new projects, learning opportunities, or just chat
 
 | **GitHub** | <a href="https://github.com/hagan-del" target="_blank">🐙 GitHub</a> |
 
-***
-
-_**Note:** You can replace the text links above with inline icons for a sleeker look. For example, to use popular icons from the shields.io service or use GitHub-friendly emojis:_
-
-**Example using Icons (You will need to search for your preferred icon library for maximum effect):**
-
-Connect with me:
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Gmail][gmail-shield]][gmail-url]
-[![GitHub][github-shield]][github-url]
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: [Your LinkedIn URL]
-[twitter-shield]: https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[twitter-url]: [Your Twitter/X URL]
-[gmail-shield]: https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:your.email@example.com
-[github-shield]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-[github-url]: [Your GitHub Profile URL]
