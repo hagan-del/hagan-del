@@ -8,7 +8,7 @@ Welcome to my corner of GitHub! I am a **passionate and driven student** current
 
 ## 🎯 About Me
 
-* 🎓 **Student:** I am currently [**Computer Science**] at [**Kwamena University of Science and Technology**].
+* 🎓 **Student:** I am currently **Computer Science** at **Kwamena University of Science and Technology**.
 * 💻 **Tech Focus:** My heart is set on **mobile development**. I am constantly learning and honing my skills in **Flutter, Dart, State Management (e.g., Provider, Bloc), UI/UX design principles, and Firebase integration.**
 * 🌱 **Learning & Growth:** I thrive on challenges and continuous learning. I'm actively working on understanding efficient application architecture, writing clean, testable code, and exploring new technologies that enhance the mobile user experience.
 * 💡 **Goal:** To transition from an aspiring student to a proficient Mobile App Developer, creating intuitive and high-quality applications that solve real-world problems.
